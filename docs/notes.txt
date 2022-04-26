@@ -1,0 +1,24 @@
+Getting started (sinmple):
+
+https://www.cairo-lang.org/docs/quickstart.html
+
+Getting started with Nile from openzepplin:
+
+https://blog.openzeppelin.com/getting-started-with-openzeppelin-contracts-for-cairo/
+
+Create new env
+
+mkdir project_name
+cd project_name
+python3 -m venv env
+source env/bin/activate
+
+pip3 install cairo-nile openzeppelin-cairo-contracts
+
+nile init
+
+Starting off with a simple ERC20 analog:
+
+%lang starknet
+
+from openzeppelin.token.erc20.ERC20 import constructor

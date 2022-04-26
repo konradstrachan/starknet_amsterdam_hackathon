@@ -1,0 +1,1 @@
+0x0564a45ac4b9378b55f12ec11a0351c33b25d6ba6f4e6dec30aaf96f75689dea:artifacts/abis/testtoken.json:kon_token
